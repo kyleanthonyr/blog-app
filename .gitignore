@@ -1,1 +1,2 @@
 .prettierignore
+__pycache__/
